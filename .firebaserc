@@ -1,9 +1,10 @@
 {
   "projects": {
-    "default": "thegoldentoad-87394"
+    "default": "ai4you",
+    "prod": "ai4you"
   },
   "targets": {
-    "thegoldentoad-87394": {
+    "ai4you": {
       "hosting": {
         "prod": [
           "ai4you"
