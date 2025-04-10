@@ -1,18 +1,28 @@
++++
+# This title is used as the og:title on Hugo's internal
+# opengraph structured data template on the home page.
+# See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+title = "Literatos"
++++
+
+# A match made in heaven
+
+There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+
+Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+
+[Regístrate en la app](https://app.literatos.net)
+
 ---
-title: "Home"
+
+What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
+
+**Use this theme, and find out!**
+
+Made with 💟 by [Jan Raasch](https://www.janraasch.com).
+
 ---
 
-## What you will find here
+Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
 
-This space aims to provide some insights on the mathematical foundations that support what we call nowadays *Artificial Intelligence*. Our idea is to provide a theoretical toolset that allows you to, not only understand every step of the operational processes that make this system work, but also to gain some philosophical perspective about the unique situation the computer science world is involved right know. To describe it shortly, we name these systems *Artificially intelligent* though there is not a comprehensive (or non-comprehensive for that matter) theory on what it means to be **intelligent**. 
-
-
-With time, we will also try to cover the implications that this new technological framework has meant for other areas of information technology. This is the case of Cypersecurity or Software development at the point of redefining the human-computer interaction. We hope you enjoy the ride.
-
-
-## Introduction
-
-- [Programs I use and recommend](/pages/software/)
-- [Key bindings I use](/pages/keybindings/)
-- [Personal library](/pages/library)
-- [Donate via crypto](/pages/donate/)
+Each page is ~5kb, and you can **host your blog yourself**.
