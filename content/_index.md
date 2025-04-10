@@ -5,24 +5,21 @@
 title = "Literatos"
 +++
 
-# A match made in heaven
+# El sitio para empezar a publicar
 
-AAAAAAAAAAAAAAAThere is a website obesity crisddis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
-
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
-
-[Regístrate en la app](https://app.literatos.net)
+Podríamos haber hecho una web guapísima, con colores, animaciones y pijadas por doquier. Nos queríamos centrar en lo importante. Una aplicación para publicar lo que escribas. Literatos es un rincón literario, nada más. 
+[Regístrate aquí](https://app.literatos.net)
 
 ---
 
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
+Cada mes, escogeremos el mejor relato y el mejor microrrelato, y los publicaremos en el blog. Además, cada ganador, cada mes, ganará **cien euros**.
 
-**Use this theme, and find out!**
 
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
 
 ---
 
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
+Con el tiempo, os daremos herramientas a los escritores, para poder tener vuestro "blog" solo publicando en la app. Tiempo al tiempo. Por lo pronto te decimos, conservas la propiedad intelectual de todo lo que publiques. 
 
-Each page is ~5kb, and you can **host your blog yourself**.
+
+
+Si tienes cualquier duda, contáctanos en app@literatos.net y te contaremos más sobre nuestro proyecto.
