@@ -121,4 +121,4 @@ Podemos actualizar esta Política de Privacidad periódicamente para reflejar ca
 ### 10. Contacto
 
 Si tienes preguntas, comentarios o inquietudes acerca de esta Política de Privacidad, contáctanos en:  
-info@literatos.net
+app@literatos.net
