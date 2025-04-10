@@ -42,7 +42,7 @@ jobs:
 
     # Archive the public folder (for the deploy job to use)
       - name: Upload public folder as build artifact
-        uses: actions/upload-artifact@v3.1.2
+        uses: actions/upload-artifact@v4
         with:
           name: hugo-site
           path: ./public
@@ -57,7 +57,7 @@ jobs:
 
       # Download the built public folder from the previous job
       - name: Download build artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: hugo-site
           path: ./public
