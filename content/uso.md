@@ -3,7 +3,6 @@ title = "Condiciones de uso"
 menu = "main"
 +++
 
-# Condiciones de uso de Literatos
 
 **Última actualización: 28 de enero de 2025**
 

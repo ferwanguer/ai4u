@@ -8,6 +8,7 @@ title = "Literatos"
 # El sitio para empezar a publicar
 
 Podríamos haber hecho una web guapísima, con colores, animaciones y pijadas por doquier. Nos queríamos centrar en lo importante. Una aplicación para publicar lo que escribas. Literatos es un rincón literario, nada más. 
+
 [Regístrate aquí](https://app.literatos.net)
 
 ---
